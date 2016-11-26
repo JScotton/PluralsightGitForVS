@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTFConsoleDemo", "GitTFConsoleDemo\GitTFConsoleDemo.csproj", "{D50A6E95-30B6-4C69-8DFB-6A73373E9BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50A6E95-30B6-4C69-8DFB-6A73373E9BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50A6E95-30B6-4C69-8DFB-6A73373E9BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50A6E95-30B6-4C69-8DFB-6A73373E9BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50A6E95-30B6-4C69-8DFB-6A73373E9BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
